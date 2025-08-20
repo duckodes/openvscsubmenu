@@ -1,1 +1,2 @@
 # openvscsubmenu
+小工具: 註冊Windows右鍵選單以VisualStudioCode開啟檔案或是資料夾
